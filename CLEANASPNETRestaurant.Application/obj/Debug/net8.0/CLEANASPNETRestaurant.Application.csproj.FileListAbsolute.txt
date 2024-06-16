@@ -1,0 +1,15 @@
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\bin\Debug\net8.0\CLEANASPNETRestaurant.Application.deps.json
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\bin\Debug\net8.0\CLEANASPNETRestaurant.Application.dll
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\bin\Debug\net8.0\CLEANASPNETRestaurant.Application.pdb
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\bin\Debug\net8.0\CLEANASPNETRestaurant.Domain.dll
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\bin\Debug\net8.0\CLEANASPNETRestaurant.Domain.pdb
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASPNETRestaurant.Application.csproj.AssemblyReference.cache
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASPNETRestaurant.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASPNETRestaurant.Application.AssemblyInfoInputs.cache
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASPNETRestaurant.Application.AssemblyInfo.cs
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASPNETRestaurant.Application.csproj.CoreCompileInputs.cache
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASP.617D4541.Up2Date
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASPNETRestaurant.Application.dll
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\refint\CLEANASPNETRestaurant.Application.dll
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\CLEANASPNETRestaurant.Application.pdb
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Application\obj\Debug\net8.0\ref\CLEANASPNETRestaurant.Application.dll

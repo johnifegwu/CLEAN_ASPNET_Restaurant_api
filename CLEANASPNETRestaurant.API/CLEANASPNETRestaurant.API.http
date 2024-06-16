@@ -1,0 +1,22 @@
+
+@host = https://localhost
+@port = 44318
+@fulladdress = {{host}}:{{port}}
+
+GET {{fulladdress}}/api/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{fulladdress}}/api/weatherforecast/today/
+Accept: application/json
+
+###
+POST {{fulladdress}}/api/weatherforecast/generate/10
+Accept: application/json
+Content-Type: application/json
+
+{
+   "MinTemperature": -25,
+   "MaxTemperature": 90
+}

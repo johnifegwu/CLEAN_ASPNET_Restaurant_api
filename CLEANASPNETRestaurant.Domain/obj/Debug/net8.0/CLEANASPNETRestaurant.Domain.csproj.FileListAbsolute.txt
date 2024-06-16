@@ -1,0 +1,11 @@
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\bin\Debug\net8.0\CLEANASPNETRestaurant.Domain.deps.json
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\bin\Debug\net8.0\CLEANASPNETRestaurant.Domain.dll
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\bin\Debug\net8.0\CLEANASPNETRestaurant.Domain.pdb
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\CLEANASPNETRestaurant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\CLEANASPNETRestaurant.Domain.AssemblyInfoInputs.cache
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\CLEANASPNETRestaurant.Domain.AssemblyInfo.cs
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\CLEANASPNETRestaurant.Domain.csproj.CoreCompileInputs.cache
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\CLEANASPNETRestaurant.Domain.dll
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\refint\CLEANASPNETRestaurant.Domain.dll
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\CLEANASPNETRestaurant.Domain.pdb
+E:\Johni\CLEANArchitecture\CLEAN_ASPNET_Restaurant_api\CLEANASPNETRestaurant.Domain\obj\Debug\net8.0\ref\CLEANASPNETRestaurant.Domain.dll

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|e:\\johni\\cleanarchitecture\\clean_aspnet_restaurant_api\\cleanaspnetrestaurant.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|solutionrelative:cleanaspnetrestaurant.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|e:\\johni\\cleanarchitecture\\clean_aspnet_restaurant_api\\cleanaspnetrestaurant.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|solutionrelative:cleanaspnetrestaurant.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|e:\\johni\\cleanarchitecture\\clean_aspnet_restaurant_api\\cleanaspnetrestaurant.infrastructure\\repositories\\unitofworkrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|solutionrelative:cleanaspnetrestaurant.infrastructure\\repositories\\unitofworkrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|e:\\johni\\cleanarchitecture\\clean_aspnet_restaurant_api\\cleanaspnetrestaurant.infrastructure\\repositories\\iunitofworkrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|solutionrelative:cleanaspnetrestaurant.infrastructure\\repositories\\iunitofworkrestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|e:\\johni\\cleanarchitecture\\clean_aspnet_restaurant_api\\cleanaspnetrestaurant.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|solutionrelative:cleanaspnetrestaurant.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|e:\\johni\\cleanarchitecture\\clean_aspnet_restaurant_api\\cleanaspnetrestaurant.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48D0A1-B926-4134-B1A3-7766B29F3961}|CLEANASPNETRestaurant.Infrastructure\\CLEANASPNETRestaurant.Infrastructure.csproj|solutionrelative:cleanaspnetrestaurant.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FA7432-1BED-48B4-BE98-169AE2BFA2B1}|CLEANASPNETRestaurant.API\\CLEANASPNETRestaurant.API.csproj|e:\\johni\\cleanarchitecture\\clean_aspnet_restaurant_api\\cleanaspnetrestaurant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FA7432-1BED-48B4-BE98-169AE2BFA2B1}|CLEANASPNETRestaurant.API\\CLEANASPNETRestaurant.API.csproj|solutionrelative:cleanaspnetrestaurant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWorkRestaurant.cs",
+              "DocumentMoniker": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\UnitOfWorkRestaurant.cs",
+              "RelativeDocumentMoniker": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\UnitOfWorkRestaurant.cs",
+              "ToolTip": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\UnitOfWorkRestaurant.cs",
+              "RelativeToolTip": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\UnitOfWorkRestaurant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:50:26.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWorkRestaurant.cs",
+              "DocumentMoniker": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\IUnitOfWorkRestaurant.cs",
+              "RelativeDocumentMoniker": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\IUnitOfWorkRestaurant.cs",
+              "ToolTip": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\IUnitOfWorkRestaurant.cs",
+              "RelativeToolTip": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\IUnitOfWorkRestaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:36:22.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:05:17.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "CLEANASPNETRestaurant.Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:45:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantSeeder.cs",
+              "DocumentMoniker": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "RelativeDocumentMoniker": "CLEANASPNETRestaurant.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "ToolTip": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "RelativeToolTip": "CLEANASPNETRestaurant.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:25:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.API\\Program.cs",
+              "RelativeDocumentMoniker": "CLEANASPNETRestaurant.API\\Program.cs",
+              "ToolTip": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.API\\Program.cs",
+              "RelativeToolTip": "CLEANASPNETRestaurant.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:31:53.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CLEANASPNETRestaurant.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\Johni\\CLEANArchitecture\\CLEAN_ASPNET_Restaurant_api\\CLEANASPNETRestaurant.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CLEANASPNETRestaurant.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:27:57.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

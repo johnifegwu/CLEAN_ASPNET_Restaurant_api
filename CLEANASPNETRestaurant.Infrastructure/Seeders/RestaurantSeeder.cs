@@ -5,12 +5,12 @@ using CLEANASPNETRestaurant.Infrastructure.Repositories;
 
 namespace CLEANASPNETRestaurant.Infrastructure.Seeders
 {
-    internal class RestaurantSeeder(IUnitOfWorkRestaurant context)
+    internal class RestaurantSeeder(IUnitOfWorkRestaurant context) : IRestaurantSeeder
     {
 
         public async Task Seed()
         {
-            if(await context.GetContext().Database.CanConnectAsync())
+            if (await context.GetContext().Database.CanConnectAsync())
             {
                 if (!context.Repository<Restaurant>().Read().Any())
                 {
@@ -27,6 +27,11 @@ namespace CLEANASPNETRestaurant.Infrastructure.Seeders
                 new Restaurant
                 {
                     Name = "KFC",
+                    Description = "KFC fast food joint.",
+                    Category = "Fast Food",
+                    ContactEmail = "fastfood@kfc.com",
+                    ContactNumber = "+18052334",
+                    HasDelivery = true,
                     Address = new Address
                     {
                         City = "City 1",
@@ -38,18 +43,25 @@ namespace CLEANASPNETRestaurant.Infrastructure.Seeders
                         new Dish
                         {
                             Name = "Chiken Wings (Small)",
+                            Description = "Chiken Wings (Small)",
                             Price = 10
                         },
                         new Dish
                         {
                             Name = "Chiken Wings (Large)",
+                            Description = "Chiken Wings (Large)",
                             Price = 20
                         }
                     }
                 },
                 new Restaurant
                 {
-                    Name = "Mc Donalds",
+                    Name = "McDonalds",
+                    Description = "MCDonalds fast food joint.",
+                    Category = "Fast Food",
+                    ContactEmail = "fastfood@mcdonalds.com",
+                    ContactNumber = "+18052233",
+                    HasDelivery = true,
                     Address = new Address
                     {
                         City = "City 2",
@@ -61,11 +73,13 @@ namespace CLEANASPNETRestaurant.Infrastructure.Seeders
                         new Dish
                         {
                             Name = "Big Mac (With Small SOda)",
+                            Description = "Big Mac (With Small SOda)",
                             Price = 30
                         },
                         new Dish
                         {
                             Name = "Big Mac (With Large SOda)",
+                            Description = "Big Mac (With Large SOda)",
                             Price = 40
                         }
                     }

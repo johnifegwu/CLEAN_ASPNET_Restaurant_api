@@ -23,7 +23,7 @@ namespace CLEANASPNETRestaurant.Infrastructure.Repositories
             return this.Context;
         }
 
-        public IRepository<T> Repository<T>() where T : class, IDisposable
+        public IRepository<T> Repository<T>() where T : class
         {
             if (!_repositories.ContainsKey(typeof(T)))
             {

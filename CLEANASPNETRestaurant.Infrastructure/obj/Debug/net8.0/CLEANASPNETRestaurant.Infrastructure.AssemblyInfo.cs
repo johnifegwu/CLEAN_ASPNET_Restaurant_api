@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLEANASPNETRestaurant.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79e47c2dd1422c351b3fc02705c1e6a6f9abf8d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLEANASPNETRestaurant.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLEANASPNETRestaurant.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

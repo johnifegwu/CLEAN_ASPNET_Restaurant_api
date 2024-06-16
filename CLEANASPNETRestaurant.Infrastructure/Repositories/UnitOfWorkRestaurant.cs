@@ -43,9 +43,9 @@ namespace CLEANASPNETRestaurant.Infrastructure.Repositories
             _repositories.Add(typeof(T), new Repository<T>(Context));
         }
 
-        public Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        public async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            return await Context.SaveChangesAsync(cancellationToken);
         }
 
         private bool disposed = false;

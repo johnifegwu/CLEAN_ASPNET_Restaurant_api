@@ -50,7 +50,7 @@ namespace CLEANASPNETRestaurant.Infrastructure.Repositories
 
         private bool disposed = false;
 
-        protected virtual void Dispose(bool disposing)
+        protected void Dispose(bool disposing)
         {
             if (!this.disposed)
             {
